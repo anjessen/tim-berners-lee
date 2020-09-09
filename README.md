@@ -1,17 +1,19 @@
 # tim-berners-lee
 
-Tim Berners-Lee
-Optionnel
+##Optionnel
 Temps nécessaire : 16 heures maximum
 
-Objectifs
+##Objectifs
 Réaliser une page sur Tim Berners-Lee
 Faire du HTML et du CSS
-Briefing
-Étape 1 : Git
+
+##Briefing
+
+__Étape 1__ : Git
 Crée un dépôt sur GitHub nomé "tim-berners-lee"
 Clone ce dépot sur ton ordinateur
-Étape 2 : HTML
+
+__Étape 2__ : HTML
 Faire les actions suivantes dans le dossier "tim-berners-lee"
 
 Crée un fichier index.html
@@ -33,13 +35,16 @@ Dans index.html écrire du code HTML dont le résultat doit correspondre exactem
 Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
 Pour avoir les icônes utiliser ceci :
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+[font-awesome] (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css)
+
 Pour choisir les icones rendez-vous chez FontAwesome
-Étape 3 : CSS
+
+__Étape 3__ : CSS
 Faire de sorte que votre page ressemble à celle-ci Goal CSS
 Pour avoir une jolie typographie utiliser ceci :
 
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
+[google apis] (http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700)
+
 Suivre le lien pour savoir comment utiliser Google Font
 Ajouter des div en HTML pour séparer les éléments en blocs
 Dans style.css
@@ -48,12 +53,14 @@ Centrer les div
 Mettre une couleur de fond sur les div
 Changer la couleur des textes
 Aligner les textes
-Étape 4 : Sauver avec Git
+
+__Étape 4__ : Sauver avec Git
 Faire un add
 Faire un commit
 Faire un push
 Aller sur votre profile GitHub pour vérifier les changements
 Publier la page comme une GitHub Page
-Étape 5 : readme file
+
+__Étape 5__ : readme file
 Explique pourquoi, comment, qui
 Explique les difficultés que tu as rencontrées dans ce projet et comment tu les as résolues.
