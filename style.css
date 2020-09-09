@@ -5,12 +5,23 @@ body {
   margin-left: 25%;
   margin-right: 25%;
   background-color: lightgrey;
+  color: lightgrey;
 }
 
 .top {
   background-color: white;
   text-align: center;
   padding-bottom: 2%;
+}
+
+.p-top {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.Tim {
+  width: 20%;
+  border-radius: 50%;
+  border: 5px solid grey;
 }
 
 h1 {
@@ -20,6 +31,11 @@ h1 {
 h2 {
   font-size: 1.2em;
   text-align: center;
+  padding-top: 5%;
+}
+
+p{
+  margin-right: 4%;
 }
 .movie {
   background-color: white;
@@ -56,12 +72,12 @@ i{
 	display: block;
 	width: 150px;
 	text-align: center;
-	vertical-align: middle;
+	/*vertical-align: middle;*/
 	background-color: #c1280f;
 	border-radius: 5px;
 	color: #fff;
-	margin-left: 38%;
-	margin-top: 2%;
+	margin-left: 40%;
+	/*margin-top: 2%;*/
   padding-top: 2%;
   padding-bottom: 2%;
 }
@@ -83,10 +99,12 @@ a:link
   padding-top: 20%;
   display: flex;
   flex-wrap: wrap;
+  margin-right: 20%;
 }
 
 .img-movie {
-  padding-right: 10%;
+  margin-left: 8%;
+  padding-right: 8%;
   width:15%;
   height: 15%;
   padding-top: 10%;
@@ -95,4 +113,9 @@ a:link
 h3 {
   text-align: center;
   padding-top: 10%;
+  margin-right: 5%;
+}
+
+span {
+  background-color: grey;
 }
