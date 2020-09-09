@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: lightgrey;
+}
+
+.top {
+  background-color: white;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  font-size: 1.2em;
+  text-align: center;
+}
+.movie {
+  background-color: white;
+}
+
+.social-media {
+  background-color: white;
+  justify-content: center;
+
+}
+
+.social-media li {
+  width: 100%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+i{
+  font-size: 2.5em;
+}
+
+.icon {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: lightgrey;
+}
+
+.bouton {
+	display: block;
+	width: 150px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #c1280f;
+	border-radius: 5px;
+	color: #fff;
+	margin-left: 38%;
+	margin-top: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+a {
+  color: lightgrey;
+}
+
+a:link
+{
+ text-decoration:none;
+}
+
+.movie-content{
+  display: flex;
+}
+
+.description {
+  padding-top: 20%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img-movie {
+  padding-right: 10%;
+  width:15%;
+  height: 15%;
+  padding-top: 10%;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 10%;
+}
