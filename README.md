@@ -1,13 +1,13 @@
 # tim-berners-lee
 
-##Optionnel
+## Optionnel
 Temps nécessaire : 16 heures maximum
 
-##Objectifs
+## Objectifs
 Réaliser une page sur Tim Berners-Lee
 Faire du HTML et du CSS
 
-##Briefing
+## Briefing
 
 __Étape 1__ : Git
 Crée un dépôt sur GitHub nomé "tim-berners-lee"
